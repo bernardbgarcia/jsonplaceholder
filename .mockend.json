@@ -1,0 +1,10 @@
+{
+  "citymap": {
+    "latitude": 41.714,
+    "longitude": -74.005,
+    "radiusProvided": 25,
+    "mapType": "roadmap",
+    "googleMapsApiKey": "AIzaSyCJn7poxCL-UKzhXMJQ8u72fa32nGqnJeM"
+  }
+}
+
