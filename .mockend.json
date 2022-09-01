@@ -6,10 +6,19 @@
     }
   },
   "Citymap": {
-    "latitude": 41.714,
-    "longitude": -74.005,
-    "radiusProvided": 25,
-    "mapType": "roadmap",
-    "googleMapsApiKey": "AIzaSyCJn7poxCL-UKzhXMJQ8u72fa32nGqnJeM"
+    "latitude": {
+      "int": [41.714]
+    },
+    "longitude": {
+      "int": [-74.005]
+    },
+    "radiusProvided": {
+      "int": [25]
+    },
+    "mapType": {
+      "string": "roadmap"
+    },
+    "googleMapsApiKey": {
+      "string": "AIzaSyCJn7poxCL-UKzhXMJQ8u72fa32nGqnJeM"
+    }
   }
-}
