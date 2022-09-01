@@ -5,7 +5,7 @@
       "hasMany": "Comment"
     }
   },
-  "citymap": {
+  "Citymap": {
     "latitude": 41.714,
     "longitude": -74.005,
     "radiusProvided": 25,
