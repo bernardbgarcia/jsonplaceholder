@@ -16,9 +16,9 @@
       "int": [25]
     },
     "mapType": {
-      "string": {"roadmap"}
+      "string": ["roadmap"]
     },
     "googleMapsApiKey": {
-      "string": {"AIzaSyCJn7poxCL-UKzhXMJQ8u72fa32nGqnJeM"}
+      "string": ["AIzaSyCJn7poxCL-UKzhXMJQ8u72fa32nGqnJeM"]
     }
   }
